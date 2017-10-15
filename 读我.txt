@@ -7,3 +7,12 @@ tensorflow.ipynb
 #20171015 
 增加了txt可读性，可以直观的看出数字是多少，但是load（txt）文件会出现错误，所以还是用.npy文件储存带有格式的数据
 
+#20171015
+/MINST_train
+.txt 可以看到数字的二维矩阵
+.npy 储存二维数组，load不失掉格式
+
+/pooling 
+对应的图片
+
+
