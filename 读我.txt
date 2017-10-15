@@ -1,0 +1,9 @@
+tensorflow.ipynb
+
+1. open cmd.exe
+
+2. pip install scikit-image
+
+#20171015 
+增加了txt可读性，可以直观的看出数字是多少，但是load（txt）文件会出现错误，所以还是用.npy文件储存带有格式的数据
+
